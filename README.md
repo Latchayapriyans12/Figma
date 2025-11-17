@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-
+```
 <div data-layer="Start here ↓" className="StartHere justify-center text-black text-7xl font-bold font-['Inter']">Start here<br/>↓</div>
 <div data-layer="Fuschia 100" className="Fuschia100 w-10 h-10 bg-[#ef5da8] rounded-[3px]" />
 <div data-layer="Fuschia 80" className="Fuschia80 w-10 h-10 bg-[#f178b6] rounded-[3px]" />
@@ -91,6 +91,7 @@ Figma
 <div data-layer="sportsevent@gmail.com" className="SportseventGmailCom w-[367px] h-9 text-center justify-center text-black text-xl font-normal font-['Knewave'] tracking-wide">sportsevent@gmail.com</div>
 <div data-layer="Mobile no :" className="MobileNo w-[190px] h-[31px] text-center justify-center text-[#1e1e1e] text-xl font-normal font-['Knewave'] tracking-wide">Mobile no :</div>
 <div data-layer="9043664195" className="w-[195px] h-[29px] text-center justify-center text-black text-xl font-normal font-['Knewave'] tracking-wide">9043664195</div>
+```
 
 ## OUTPUT:
 
